@@ -26,7 +26,6 @@ JMeter is a powerful open-source tool used to test the performance of web applic
 
 ## ⚙️ Project Setup
 
-### 1️⃣ Prerequisites
 Make sure you have:
 - **Java 11+**
 - **Apache JMeter (latest version)**  
